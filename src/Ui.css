@@ -1,0 +1,8 @@
+.button {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: space-around;
+  align-items: stretch;
+  padding: .3em;
+}
